@@ -148,8 +148,8 @@ Windows • Linux • Scrum • Agile • SQLyog • Jupyter Notebook • Git �
 # 🌐 Connect With Me
 
 * 🔗 GitHub: https://github.com/mh-mahmud
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 📍 Location: Bangladesh
+* 📧 Email: [mh.developer,me@gmail.com](mailto:mh.developer.me@gmail.com)
+* 📍 Location: Dhaka, Bangladesh
 
 ---
 
